@@ -1,0 +1,37 @@
+[
+    {
+        "dateOfBirth": "01-05-1998",
+        "fullName": "Kate Smith",
+        "emailAddress": "kate@gmail.com",
+        "userName": "kate01",
+        "password": "123456"
+    },
+    {
+        "dateOfBirth": "09-07-1999",
+        "fullName": "Daddy Yankie",
+        "emailAddress": "daddy@gmail.com",
+        "userName": "daddy01",
+        "password": "123456"
+    },
+    {
+        "dateOfBirth": "02-07-2000",
+        "fullName": "John Doe",
+        "emailAddress": "john@gmail.com",
+        "userName": "john01",
+        "password": "123456"
+    },
+    {
+        "dateOfBirth": "04-06-2003",
+        "fullName": "David Warner",
+        "emailAddress": "david@gmail.com",
+        "userName": "david01",
+        "password": "123456"
+    },
+    {
+        "dateOfBirth": "21-02-1994",
+        "fullName": "Tom Smith",
+        "emailAddress": "tom@gmail.com",
+        "userName": "tom01",
+        "password": "123456"
+    }
+]
